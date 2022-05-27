@@ -38,3 +38,4 @@ extension)
 
 https://go.dev/blog/using-go-modules
 https://research.swtch.com/deps
+https://teemukanstren.com/2020/10/27/understanding-golang-project-structure/
