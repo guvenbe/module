@@ -35,3 +35,6 @@ extension)
 ○ import path is everything after the “src” folder in your workspace
 ○ use the last folder in the import path to reference the package in your code
 ○ you can alias packages in your imports
+
+https://go.dev/blog/using-go-modules
+https://research.swtch.com/deps
